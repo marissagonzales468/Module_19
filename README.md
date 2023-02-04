@@ -5,8 +5,8 @@ Fintech Finder is an application that its customers can use to find fintech prof
 This project leverages python 3.7 with the following packages:
  * [Web3.py](https://web3py.readthedocs.io/en/stable/overview.html) - For connecting to and performing operations on Ethereum-based blockchains.
 * [ethereum-tester](https://pypi.org/project/ethereum-tester/0.1.0a4/) - For providing access to the tools we’ll use to test Ethereum-based applications.
-* [mnemonic]https://pypi.org/project/mnemonic/) - For generating a 12- or 24-word mnemonic seed phrase based on the BIP-39 standard.
-* [bip44]https://pypi.org/project/bip44/)- For deriving hierarchical deterministic wallets from a seed phrase based on the BIP-44 standard.
+* [mnemonic](https://pypi.org/project/mnemonic/) - For generating a 12- or 24-word mnemonic seed phrase based on the BIP-39 standard.
+* [bip44](https://pypi.org/project/bip44/)- For deriving hierarchical deterministic wallets from a seed phrase based on the BIP-44 standard.
 * [Ganache](https://trufflesuite.com/ganache/)- For allowing you to quickly set up a local blockchain, which you can use to test and develop smart contracts.
 * [Streamlit](https://streamlit.io/) - For an open source app framework in Python language.
 ## Installation Guide
